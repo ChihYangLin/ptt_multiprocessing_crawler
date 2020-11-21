@@ -1,0 +1,7 @@
+requests
+bs4
+re
+time
+json
+multiprocessing
+functools
